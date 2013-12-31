@@ -6,10 +6,6 @@
 //  Copyright (c) 2013 Mark Kenyon. All rights reserved.
 //
 
-/*Replace With New Controller */
- 
- 
-
 #import <UIKit/UIKit.h>
 
 @interface subSquadsSecondViewController : UIViewController
